@@ -119,4 +119,4 @@ Linear Regression was selected because it had the lowest test RMSE (2.5240 lakh)
 
 ## Author
 
-Aditya Vishwakarma
+Aditya Vishwakarma AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 — BharatCares
